@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hi, I'm Chris!</h1>
-<h3 align="center">A FOSS advocate and student</h3>
+<h3 align="center">A FOSS advocate and perpetual learner</h3>
 <p align="center">
   <img align="center" alt="penguin typing on keyboard" src="https://media.tenor.com/y-cCxl8uEw0AAAAM/yetopen.gif"/>
 </p>
+<h3 align="left">About me:</h3>
 
 - 🔭 I’m currently working on a [Roku Alarm Clock](https://github.com/cwangsanata/Roku-Alarm-Clock)
 
