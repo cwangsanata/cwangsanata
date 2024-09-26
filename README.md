@@ -11,11 +11,11 @@
 
 - 📝 I sometimes write articles on [Medium](https://medium.com/@cwww)
 
-- 💬 Ask me about **Mechanical keyboards**
+- 💬 Ask me about **mechanical keyboards (I know too much)**
 
 - 📄 Know about my experiences in my [CV](https://docs.google.com/document/d/1v-aM3EuqrcoCtHjvElNCkmjovy4Qn34X57C5dVgekm4/edit?usp=sharing)
 
-- ⚡ Fun fact **I read and contribute to Wikipedia 🤓**
+- ⚡ Fun fact, **I read and contribute to Wikipedia 🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
