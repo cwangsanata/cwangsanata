@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a [Roku Alarm Clock](https://github.com/cwangsanata/Roku-Alarm-Clock)
 
-- 🌱 I’m currently learning **React + Vite, Django**
+- 🌱 I’m currently learning **React + Vite, Flask**
 
 - 📝 I sometimes write articles on [Medium](https://medium.com/@cwww)
 
