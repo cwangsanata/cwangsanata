@@ -11,7 +11,7 @@
 
 - 📝 I sometimes write articles on [Medium](https://medium.com/@cwww)
 
-- 💬 Ask me about **anything! I'm always open to new ideas and conversations.**
+- 💬 Ask me about **anything! I'm always open to new ideas and conversations. In fact, please talk to me. It gets lonely in my code editors.**
 
 - 📄 Know about my experiences in my [CV](https://docs.google.com/document/d/1v-aM3EuqrcoCtHjvElNCkmjovy4Qn34X57C5dVgekm4/edit?usp=sharing)
 
