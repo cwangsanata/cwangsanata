@@ -5,17 +5,11 @@
 </p>
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on a [Roku Alarm Clock](https://github.com/cwangsanata/Roku-Alarm-Clock)
-
-- 🌱 I’m currently learning **React + Vite, Flask**
+- 🔭 I’m currently on hiatus 😴
 
 - 📝 I sometimes write articles on [Medium](https://medium.com/@cwww)
 
 - 💬 Ask me about **anything! I'm always open to new ideas and conversations. In fact, please talk to me. It gets lonely in my code editors.**
-
-- 📄 Know about my experiences in my [CV](https://docs.google.com/document/d/1v-aM3EuqrcoCtHjvElNCkmjovy4Qn34X57C5dVgekm4/edit?usp=sharing)
-
-- ⚡ Fun fact, **I read and contribute to Wikipedia 🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
