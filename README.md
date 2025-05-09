@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Chris!</h1>
-<h3 align="center">Lifelong Learner and FOSS Advocate</h3>
+<h3 align="center">FOSS Advocate & Perpetually Learning</h3>
 <p align="center">
   <img align="center" alt="penguin typing on keyboard" src="https://media.tenor.com/y-cCxl8uEw0AAAAM/yetopen.gif"/>
 </p>
