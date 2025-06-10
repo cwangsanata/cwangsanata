@@ -5,11 +5,11 @@
 </p>
 <h3 align="left">About me:</h3>
 
-- 🔭 We're so back! Just started a new gig and now I have more time to touch my terminal.
+- 🔭 We're so back!
 
 - 📝 I sometimes write articles on [Medium](https://medium.com/@cwww)
 
-- 💬 Ask me about **anything! I'm always open to new ideas and conversations. In fact, please talk to me. It gets lonely in my code editors.**
+- 💬 Ask me about **anything! I'm always open to new ideas and conversations. In fact, please talk to me. I can only read so many stack traces.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
