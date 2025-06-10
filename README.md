@@ -9,7 +9,7 @@
 
 - 📝 I sometimes write articles on [Medium](https://medium.com/@cwww)
 
-- 💬 Ask me about **anything! I'm always open to new ideas and conversations. In fact, please talk to me. I can only read so many stack traces.
+- 💬 Ask me about **anything!** I'm always open to new ideas and conversations. In fact, please talk to me. I can only read so many stack traces.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
