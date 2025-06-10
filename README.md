@@ -5,7 +5,7 @@
 </p>
 <h3 align="left">About me:</h3>
 
-- 🔭 We're so back!
+- 🔭 We're so back! Managing states, reading about the latest CVEs, and trying not to burn down any existing code bases.
 
 - 📝 I sometimes write articles on [Medium](https://medium.com/@cwww)
 
