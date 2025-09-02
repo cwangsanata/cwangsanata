@@ -9,7 +9,7 @@
 
 - 📝 I sometimes write articles on [Medium](https://medium.com/@cwww)
 
-- 💬 I haven't seen the sun in months. I am now vitamin D deficient.
+- 💬 Nursing a minor migraine.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
