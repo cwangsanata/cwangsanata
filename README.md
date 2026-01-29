@@ -1,15 +1,17 @@
 <h1 align="center">👋 Hi, I'm Chris!</h1>
-<h3 align="center">⛵ Golden Age</h3>
+<h3 align="center">"What was invented by a human mind can be unraveled by another human mind"</h3>
+<h4 align="center">- Yuri Knorozov</h4>
+<br>
 <p align="center">
   <img align="center" alt="penguin typing on keyboard" src="https://media.tenor.com/y-cCxl8uEw0AAAAM/yetopen.gif"/>
 </p>
 <h3 align="left">About me:</h3>
 
-- 🔭 Macroservice architecture.
+- 🔭 Thinks hard sometimes. Soft othertimes.
 
-- 💬 Please leave github issues; there's no one else to talk to here.
+- 💬 Gets lonely in code editors. Please leave github issues; there's no one else to talk to here.
 
-- 🇫🇷 `alias ls='rm -fr /'` 
+- 🇫🇷 Favorite prank to play: `alias ls='rm -fr /'` 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
