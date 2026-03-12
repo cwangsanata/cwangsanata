@@ -13,8 +13,9 @@
 
  <h3>About me:</h3>
 
-- 🔭 Parsing, Querying, Searching, Logging, Grokking, Refactoring, Developing
-- 💬 Gets lonely in code editors. Please leave github issues; there's no one else to talk to here.  
+- ㊠ Items: Aligned
+- 𝌞 Content: Justified
+- 💬 Gets lonely in text editors. Please leave github issues; there's no one else to talk to here.  
 - 🇫🇷 Favorite prank to play: `alias ls='rm -fr /'`
 
 
